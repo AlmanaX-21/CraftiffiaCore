@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "craftiffia",
+    "name": "Craftiffia-Core",
+    "description": "GregTech 6 addon adding mining and prospecting multiblocks.",
+    "version": "1.0.0",
+    "mcversion": "1.7.10",
+    "url": "",
+    "authorList": ["AlmanaX21"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "requiredMods": ["gregtech", "modularui2"],
+    "dependencies": ["gregtech", "modularui2"]
+  }
+]
